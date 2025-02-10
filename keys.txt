@@ -1,6 +1,4 @@
-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
 
-https://e4519d38-0c22-46d4-b36b-8fb5df0761ef.us-east4-0.gcp.cloud.qdrant.io:6333
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
